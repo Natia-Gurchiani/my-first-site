@@ -1,2 +1,2 @@
 # my-first-site
-my first web site
+my new web site
